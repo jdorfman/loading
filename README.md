@@ -9,6 +9,12 @@ http://jxnblk.github.io/loading
 <img src="loading-balls.svg" alt="Loading icon" />
 ```
 
+## CDN Usage
+
+```html
+<img src="//oss.maxcdn.com/loading/0.1.0/loading-bars.svg" alt="Loading Bars" />
+```
+
 ## Custom colors
 Just change the `fill` attribute in the svg file to whatever.
 
