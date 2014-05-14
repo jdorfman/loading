@@ -10,9 +10,10 @@ http://jxnblk.github.io/loading
 ```
 
 ## CDN Usage
-
+Get started quickly with [OSSCDN](http://osscdn.com/#/loading) (powered by MaxCDN)
 ```html
 <img src="//oss.maxcdn.com/loading/0.1.0/loading-bars.svg" alt="Loading Bars" />
+<img src="//oss.maxcdn.com/loading/0.1.0/loading-balls.svg" alt="Loading Balls" />
 ```
 
 ## Custom colors
